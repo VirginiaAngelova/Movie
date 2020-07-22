@@ -1,0 +1,58 @@
+body {
+  background-color: #19002b;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #19002b;
+}
+
+.form-control {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: #19002b;
+  border-top: hidden;
+  border-left: hidden;
+  border-right: hidden;
+}
+
+form {
+  margin: auto;
+  padding: 10px;
+  width: 50%;
+  background-color: #19002b;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+footer {
+  margin: 20px;
+}
+
+#btnSubmit {
+  background-color: #47476b;
+  color: white;
+}
+body {
+  background-color: #19002b;
+}
+
+#card {
+  margin: auto;
+  width: 70%;
+  padding: 10px;
+  margin-top: 15px;
+  background-color: #4d004d;
+  color: white;
+}
+
+/*# sourceMappingURL=/src.e31bb0bc.css.map */
